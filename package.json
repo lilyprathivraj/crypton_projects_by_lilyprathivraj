@@ -1,0 +1,19 @@
+{
+  "name": "crypton-projects-by-lilyprathivraj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilyprathivraj/crypton_projects_by_lilyprathivraj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilyprathivraj/crypton_projects_by_lilyprathivraj/issues"
+  },
+  "homepage": "https://github.com/lilyprathivraj/crypton_projects_by_lilyprathivraj#readme"
+}
