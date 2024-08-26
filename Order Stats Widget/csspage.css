@@ -1,0 +1,48 @@
+.bg-container{
+    background-color: lightgrey;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    padding: 10px;
+    height: 150px;
+}
+.card-container{
+    background-color: white;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    border-radius: 10px;
+    width: 200px;
+    padding: 10px;
+}
+.card-1{
+    background-color: white;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    border-radius: 15px;
+}
+.card-2{
+    background-color: white;
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-start;
+    border-radius: 15px;
+}
+.percent-p1{
+    color: green;
+}
+.percent-p2{
+    color: red;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+h1{
+    margin-left: 10px;
+}

@@ -1,0 +1,51 @@
+.bg-con{
+    width: 400px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.img-icon{
+    width: 3%;
+}
+.top-con{
+    width: 50px;
+    border-radius: 20px;
+    height: 15px;
+    background-color: skyblue;
+}
+.p-top{
+    color: white;
+}
+.trust-con{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.trust-img{
+    width: 4%;
+    margin-right: 10px;
+
+}
+.play-img{
+    height: 200px;
+    width: 300px;
+}
+.percent-img{
+    height: 200px;
+    width: 50px;
+    margin-left: 20px;
+}
+
+.sign-btn{
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.explore-btn{
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+
+}

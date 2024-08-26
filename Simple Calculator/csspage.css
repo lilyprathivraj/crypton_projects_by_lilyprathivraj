@@ -1,0 +1,12 @@
+.bg-container{
+    background-color: lightgrey;
+    display: flex;
+    flex-direction:column;
+    justify-content: flex-start;
+    padding: 30px;
+    height: 100vh;
+}
+
+.btn{
+    margin-top: 10px;
+}

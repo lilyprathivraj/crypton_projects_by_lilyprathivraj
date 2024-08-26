@@ -1,0 +1,36 @@
+.bg-con{
+    background-color: lightgray;
+    padding: 10px;
+}
+.last-con{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+.img-con{
+    width:150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right:10px;
+}
+
+.dollar{
+    margin-left: auto;
+}
+.con-card{
+    display: flex;
+    background-color: white;
+    margin: 10PX;
+    border-radius: 15px;
+    padding: 10px;
+}
+.Aokiji{
+    color: green;
+
+}
+
+.kiz{
+    color: red;
+}
